@@ -1,1 +1,3 @@
 - [[Introduction to Machine Learning]]
+- [[Optional Lab - Model Representation]]
+- [[Optional Lab - Cost Function]]
